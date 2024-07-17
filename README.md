@@ -102,7 +102,7 @@ If you want to contribute to the project or explore the source code, follow thes
     cd Imagelab
     ```
 3. **Open the solution file in Visual Studio**
-    - Open the `Imagelab.sln` file located in the root directory of the project with Visual Studio.
+    - Open the `Jsharp.sln` file located in the root directory of the project with Visual Studio.
 
 4. **Run the application**
     - Press `F5` or select `Debug` > `Start Debugging`.
