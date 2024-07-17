@@ -20,9 +20,6 @@
 
 This project is a comprehensive image processing application designed to perform a wide range of operations on digital images. It provides a user-friendly interface for opening, manipulating, and analyzing images using various techniques and algorithms. The application is built using C# and WPF, leveraging the MVVM (Model-View-ViewModel) design pattern for clean separation of concerns and maintainability.
 
-## User Interface
-![ui](https://github.com/user-attachments/assets/710ed3d2-7beb-4bbc-a4b1-2eb09a3e218e)
-
 
 ## Features
 
